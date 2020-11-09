@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ent_nm">పేరు నమోదు చేయండి</string>
+    <string name="ent_pwd">రహస్య సంకేతం తెలపండి</string>
+    <string name="login">ప్రవేశించండి</string>
+    <string name="cancle">రద్దు చేయండి</string>
+</resources>
